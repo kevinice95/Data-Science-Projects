@@ -1,0 +1,644 @@
+place,artist,counts
+1,Insane Clown Posse,7886.0
+2,LL Cool J,7840.0
+3,Lil Wayne,7487.0
+4,Fabolous,7139.0
+5,Wu-Tang Clan,6474.0
+6,Joni Mitchell,6070.0
+7,Eminem,5982.0
+8,Kanye West,5918.0
+9,Jimmy Buffett,5889.0
+10,Ice Cube,5829.0
+11,Gucci Mane,5650.0
+12,Bob Dylan,5649.0
+13,Drake,5566.0
+14,Weird Al Yankovic,5389.0
+15,Marillion,5331.0
+16,Nick Cave,5314.0
+17,Outkast,5262.0
+18,Red Hot Chili Peppers,5147.0
+19,Rush,5051.0
+20,Snoop Dogg,5016.0
+21,Nicki Minaj,4975.0
+22,Bruce Springsteen,4898.0
+23,Indigo Girls,4865.0
+24,Phish,4838.0
+25,Xzibit,4788.0
+26,Puff Daddy,4726.0
+27,Kid Rock,4691.0
+28,Lou Reed,4661.0
+29,Beautiful South,4656.0
+30,Robbie Williams,4623.0
+31,R. Kelly,4590.0
+32,Paul Simon,4546.0
+33,John Prine,4536.0
+34,Notorious B.I.G.,4518.0
+35,Metallica,4455.0
+36,Elvis Costello,4451.0
+37,J Cole,4435.0
+38,Arrogant Worms,4430.0
+39,Slayer,4425.0
+40,David Bowie,4418.0
+41,NOFX,4418.0
+42,Johnny Cash,4405.0
+43,Squeeze,4397.0
+44,Alice Cooper,4394.0
+45,Chris Brown,4366.0
+46,Clash,4362.0
+47,Judas Priest,4343.0
+48,Kinks,4315.0
+49,Z-Ro,4314.0
+50,Megadeth,4312.0
+51,Iggy Pop,4293.0
+52,XTC,4235.0
+53,Iron Maiden,4233.0
+54,Aerosmith,4208.0
+55,Everlast,4195.0
+56,Tragically Hip,4163.0
+57,Rod Stewart,4140.0
+58,James Taylor,4122.0
+59,Horrible Histories,4104.0
+60,Frank Zappa,4102.0
+61,Gordon Lightfoot,4097.0
+62,Elton John,4090.0
+63,Kenny Chesney,4074.0
+64,Hank Williams Jr.,4064.0
+65,Grateful Dead,4038.0
+66,Adam Sandler,4027.0
+67,Who,4004.0
+68,Tom T. Hall,3998.0
+69,Billy Joel,3987.0
+70,David Allan Coe,3982.0
+71,Bette Midler,3946.0
+72,Helloween,3929.0
+73,Pearl Jam,3915.0
+74,Pet Shop Boys,3908.0
+75,Dream Theater,3903.0
+76,Queen,3883.0
+77,Patti Smith,3864.0
+78,Pogues,3863.0
+79,Mariah Carey,3858.0
+80,John Denver,3853.0
+81,Dolly Parton,3851.0
+82,Young Jeezy,3847.0
+83,Green Day,3844.0
+84,Overkill,3840.0
+85,Counting Crows,3839.0
+86,John Mellencamp,3818.0
+87,Marilyn Manson,3815.0
+88,Kate Bush,3791.0
+89,Rolling Stones,3779.0
+90,Nazareth,3769.0
+91,UB40,3768.0
+92,Lady Gaga,3761.0
+93,Genesis,3750.0
+94,Deep Purple,3744.0
+95,Glee,3739.0
+96,Incubus,3737.0
+97,Alabama,3730.0
+98,Ne-Yo,3724.0
+99,Linkin Park,3690.0
+100,Michael Jackson,3683.0
+101,Kris Kristofferson,3680.0
+102,Christmas Songs,3674.0
+103,Emmylou Harris,3652.0
+104,Neil Young,3644.0
+105,Morrissey,3641.0
+106,Leonard Cohen,3640.0
+107,Bob Seger,3639.0
+108,Barbra Streisand,3635.0
+109,Bon Jovi,3616.0
+110,Rihanna,3565.0
+111,Ozzy Osbourne,3553.0
+112,George Harrison,3550.0
+113,Tim McGraw,3542.0
+114,Nitty Gritty Dirt Band,3539.0
+115,Cyndi Lauper,3533.0
+116,Jason Mraz,3528.0
+117,Peter Gabriel,3523.0
+118,Cliff Richard,3523.0
+119,Korn,3515.0
+120,Carly Simon,3501.0
+121,Hank Snow,3498.0
+122,Jackson Browne,3487.0
+123,Tori Amos,3487.0
+124,Randy Travis,3478.0
+125,Flo-Rida,3469.0
+126,Usher,3466.0
+127,Christina Aguilera,3465.0
+128,Bing Crosby,3462.0
+129,Christy Moore,3459.0
+130,Oingo Boingo,3435.0
+131,U2,3433.0
+132,Donna Summer,3432.0
+133,Pitbull,3417.0
+134,Beach Boys,3413.0
+135,Justin Bieber,3408.0
+136,Judy Garland,3404.0
+137,Dave Matthews Band,3404.0
+138,Stevie Wonder,3395.0
+139,Arlo Guthrie,3389.0
+140,Prince,3347.0
+141,Rage Against The Machine,3345.0
+142,Cher,3336.0
+143,P!nk,3334.0
+144,Miley Cyrus,3332.0
+145,Van Morrison,3326.0
+146,America,3313.0
+147,Black Sabbath,3305.0
+148,Michael W. Smith,3305.0
+149,Pink Floyd,3289.0
+150,Primus,3266.0
+151,Kenny Rogers,3252.0
+152,Eurythmics,3252.0
+153,Styx,3252.0
+154,"Harry Connick, Jr.",3234.0
+155,Yes,3231.0
+156,Noa,3230.0
+157,Venom,3224.0
+158,Sting,3223.0
+159,Chicago,3217.0
+160,George Strait,3217.0
+161,Wyclef Jean,3216.0
+162,Hank Williams,3216.0
+163,Warren Zevon,3213.0
+164,Marianne Faithfull,3211.0
+165,Paul McCartney,3205.0
+166,Chuck Berry,3204.0
+167,Great Big Sea,3199.0
+168,Natalie Cole,3198.0
+169,Def Leppard,3184.0
+170,Reba Mcentire,3167.0
+171,Depeche Mode,3148.0
+172,Jimi Hendrix,3141.0
+173,Ella Fitzgerald,3139.0
+174,Mary Black,3125.0
+175,Chaka Khan,3118.0
+176,Nina Simone,3117.0
+177,Ray Charles,3116.0
+178,Leann Rimes,3106.0
+179,Ramones,3106.0
+180,Hollies,3101.0
+181,Celine Dion,3096.0
+182,Blur,3081.0
+183,Alphaville,3080.0
+184,Lana Del Rey,3076.0
+185,Frank Sinatra,3064.0
+186,ZZ Top,3052.0
+187,Britney Spears,3049.0
+188,Michael Bolton,3048.0
+189,Radiohead,3028.0
+190,Steely Dan,3028.0
+191,Vanilla Ice,3019.0
+192,Kylie Minogue,3018.0
+193,Amy Grant,3017.0
+194,Offspring,3009.0
+195,Kenny Loggins,3006.0
+196,Devo,3006.0
+197,Lynyrd Skynyrd,3004.0
+198,Louis Armstrong,2997.0
+199,Widespread Panic,2993.0
+200,Elvis Presley,2991.0
+201,Uriah Heep,2990.0
+202,Neil Diamond,2978.0
+203,Jennifer Lopez,2975.0
+204,Kelly Clarkson,2960.0
+205,Will Smith,2957.0
+206,Electric Light Orchestra,2956.0
+207,Bonnie Raitt,2950.0
+208,Dean Martin,2949.0
+209,Diana Ross,2947.0
+210,George Michael,2947.0
+211,Glen Campbell,2946.0
+212,Fall Out Boy,2927.0
+213,Owl City,2927.0
+214,Tom Waits,2926.0
+215,Guns N' Roses,2924.0
+216,Olivia Newton-John,2923.0
+217,Waylon Jennings,2922.0
+218,Foo Fighters,2922.0
+219,Thin Lizzy,2921.0
+220,Queen Latifah,2917.0
+221,Kiss,2911.0
+222,Katy Perry,2910.0
+223,Lauryn Hill,2881.0
+224,Townes Van Zandt,2878.0
+225,Loretta Lynn,2876.0
+226,Zebrahead,2872.0
+227,Willie Nelson,2861.0
+228,King Diamond,2857.0
+229,Erasure,2857.0
+230,Van Halen,2838.0
+231,Kirsty Maccoll,2832.0
+232,Ian Hunter,2827.0
+233,Pretenders,2820.0
+234,Howard Jones,2817.0
+235,Madonna,2815.0
+236,Lenny Kravitz,2814.0
+237,Chris Rea,2812.0
+238,The Jam,2810.0
+239,Moody Blues,2810.0
+240,Dusty Springfield,2809.0
+241,Backstreet Boys,2801.0
+242,Nightwish,2799.0
+243,The Beatles,2791.0
+244,Dan Fogelberg,2785.0
+245,W.A.S.P.,2782.0
+246,Tom Jones,2778.0
+247,George Jones,2776.0
+248,Doors,2775.0
+249,Queensryche,2771.0
+250,Garth Brooks,2763.0
+251,Avril Lavigne,2759.0
+252,Procol Harum,2755.0
+253,Meat Loaf,2751.0
+254,Manowar,2747.0
+255,Misfits,2744.0
+256,Perry Como,2738.0
+257,Rascal Flatts,2737.0
+258,Everclear,2732.0
+259,Journey,2730.0
+260,Poison,2726.0
+261,Cheap Trick,2724.0
+262,INXS,2722.0
+263,Talking Heads,2717.0
+264,Conway Twitty,2717.0
+265,ABBA,2717.0
+266,Vince Gill,2715.0
+267,Toto,2709.0
+268,Wiz Khalifa,2705.0
+269,The Monkees,2704.0
+270,Utada Hikaru,2698.0
+271,Alison Krauss,2692.0
+272,Heart,2687.0
+273,Roy Orbison,2684.0
+274,Scorpions,2671.0
+275,Status Quo,2667.0
+276,Hanson,2663.0
+277,Bee Gees,2656.0
+278,Nat King Cole,2656.0
+279,Faith Hill,2655.0
+280,Air Supply,2645.0
+281,Luther Vandross,2634.0
+282,Roxette,2631.0
+283,Gary Numan,2631.0
+284,Fleetwood Mac,2624.0
+285,Point Of Grace,2614.0
+286,Neil Sedaka,2613.0
+287,Ufo,2610.0
+288,Don McLean,2608.0
+289,Ween,2605.0
+290,Guided By Voices,2605.0
+291,Keith Urban,2602.0
+292,Linda Ronstadt,2602.0
+293,Ying Yang Twins,2599.0
+294,Billie Holiday,2580.0
+295,John McDermott,2580.0
+296,The Temptations,2573.0
+297,John Legend,2571.0
+298,Oasis,2569.0
+299,Boney M.,2564.0
+300,Richard Marx,2548.0
+301,Vybz Kartel,2543.0
+302,Gino Vannelli,2541.0
+303,Reo Speedwagon,2541.0
+304,Regine Velasquez,2535.0
+305,Pharrell Williams,2535.0
+306,Utopia,2531.0
+307,Alan Parsons Project,2530.0
+308,Phineas And Ferb,2529.0
+309,Alice In Chains,2524.0
+310,Nickelback,2505.0
+311,Doobie Brothers,2496.0
+312,Andy Williams,2496.0
+313,Gloria Estefan,2491.0
+314,Josh Groban,2489.0
+315,Kirk Franklin,2487.0
+316,Tina Turner,2482.0
+317,Waterboys,2479.0
+318,Wanda Jackson,2474.0
+319,Allman Brothers Band,2462.0
+320,The Killers,2461.0
+321,Maroon 5,2461.0
+322,Weezer,2456.0
+323,Pat Benatar,2446.0
+324,Kelly Family,2445.0
+325,Dire Straits,2432.0
+326,Carpenters,2431.0
+327,Tracy Chapman,2429.0
+328,Justin Timberlake,2428.0
+329,Sublime,2416.0
+330,Children,2400.0
+331,Cat Stevens,2399.0
+332,Rainbow,2393.0
+333,Faith No More,2388.0
+334,Crowded House,2384.0
+335,Eddie Cochran,2381.0
+336,Demi Lovato,2376.0
+337,Nirvana,2375.0
+338,Taylor Swift,2373.0
+339,Bob Rivers,2370.0
+340,Ray Boltz,2363.0
+341,Westlife,2362.0
+342,Michael Buble,2359.0
+343,John Waite,2352.0
+344,Train,2334.0
+345,Leo Sayer,2327.0
+346,Virgin Steele,2306.0
+347,Opeth,2304.0
+348,Religious Music,2292.0
+349,Wishbone Ash,2273.0
+350,Roxy Music,2258.0
+351,Lloyd Cole,2258.0
+352,Steve Miller Band,2254.0
+353,O.A.R.,2243.0
+354,Human League,2233.0
+355,Eric Clapton,2221.0
+356,Yngwie Malmsteen,2220.0
+357,Norah Jones,2208.0
+358,Whitney Houston,2208.0
+359,Old 97's,2196.0
+360,Santana,2195.0
+361,Tears For Fears,2189.0
+362,Nine Inch Nails,2183.0
+363,Proclaimers,2178.0
+364,Coldplay,2177.0
+365,Irving Berlin,2173.0
+366,Bruno Mars,2167.0
+367,Extreme,2165.0
+368,Harry Belafonte,2163.0
+369,Janis Joplin,2156.0
+370,Violent Femmes,2152.0
+371,Ed Sheeran,2147.0
+372,Lea Salonga,2142.0
+373,Our Lady Peace,2137.0
+374,Lionel Richie,2134.0
+375,Ziggy Marley,2134.0
+376,Engelbert Humperdinck,2127.0
+377,Doris Day,2123.0
+378,'n Sync,2116.0
+379,Phil Collins,2115.0
+380,Ocean Colour Scene,2114.0
+381,Q-Tip,2113.0
+382,Yo Gotti,2113.0
+383,Cake,2107.0
+384,Tom Lehrer,2096.0
+385,HIM,2092.0
+386,System Of A Down,2089.0
+387,Les Miserables,2081.0
+388,Yoko Ono,2077.0
+389,One Direction,2070.0
+390,Jim Croce,2069.0
+391,New Order,2067.0
+392,Supertramp,2067.0
+393,Hillsong United,2061.0
+394,Bob Marley,2056.0
+395,Gary Valenciano,2054.0
+396,Ellie Goulding,2041.0
+397,King Crimson,2038.0
+398,Lucky Dube,2038.0
+399,Youngbloodz,2037.0
+400,Ultravox,2033.0
+401,Young Buck,2028.0
+402,Modern Talking,2022.0
+403,Sia,2011.0
+404,Travis,2010.0
+405,Fiona Apple,2002.0
+406,Grand Funk Railroad,1994.0
+407,You Am I,1988.0
+408,Smiths,1987.0
+409,Enrique Iglesias,1984.0
+410,Foreigner,1983.0
+411,Whitesnake,1980.0
+412,Freestyle,1977.0
+413,Isley Brothers,1970.0
+414,Hillsong,1967.0
+415,Ultramagnetic Mc's,1964.0
+416,Don Henley,1956.0
+417,Soundgarden,1954.0
+418,Otis Redding,1954.0
+419,Judds,1948.0
+420,Ace Of Base,1948.0
+421,Queens Of The Stone Age,1936.0
+422,Death,1908.0
+423,Yelawolf,1887.0
+424,Uncle Kracker,1886.0
+425,Keith Green,1884.0
+426,Used,1882.0
+427,Tim Buckley,1882.0
+428,Face To Face,1881.0
+429,Etta James,1876.0
+430,The White Stripes,1872.0
+431,Ofra Haza,1866.0
+432,Culture Club,1855.0
+433,Omd,1850.0
+434,Quiet Riot,1814.0
+435,Bread,1799.0
+436,Kim Wilde,1797.0
+437,Stone Temple Pilots,1795.0
+438,Natalie Imbruglia,1786.0
+439,Yello,1761.0
+440,Nick Drake,1759.0
+441,Within Temptation,1749.0
+442,Tool,1737.0
+443,Natalie Grant,1735.0
+444,Indiana Bible College,1734.0
+445,Yellowcard,1698.0
+446,Fastball,1693.0
+447,Underworld,1682.0
+448,Peter Tosh,1676.0
+449,Underoath,1673.0
+450,Europe,1664.0
+451,Vanessa Williams,1659.0
+452,Out Of Eden,1658.0
+453,Peter Cetera,1658.0
+454,Annie,1657.0
+455,Ariana Grande,1652.0
+456,Vonda Shepard,1638.0
+457,Idina Menzel,1636.0
+458,Matt Redman,1630.0
+459,Fatboy Slim,1628.0
+460,Vertical Horizon,1627.0
+461,Olly Murs,1620.0
+462,Joy Division,1619.0
+463,Mc Hammer,1617.0
+464,Passenger,1615.0
+465,Incognito,1608.0
+466,Rammstein,1607.0
+467,Velvet Underground,1601.0
+468,Twenty One Pilots,1596.0
+469,Evanescence,1587.0
+470,David Guetta,1577.0
+471,Migos,1566.0
+472,John Martyn,1566.0
+473,Rem,1560.0
+474,Bryan White,1557.0
+475,Adele,1549.0
+476,Tiffany,1547.0
+477,Gloria Gaynor,1546.0
+478,Yolanda Adams,1540.0
+479,Wet Wet Wet,1528.0
+480,Bosson,1525.0
+481,Kyla,1512.0
+482,Cinderella,1508.0
+483,Spandau Ballet,1502.0
+484,Unearth,1498.0
+485,The Script,1483.0
+486,Oliver,1481.0
+487,Ingrid Michaelson,1475.0
+488,Faces,1475.0
+489,Patsy Cline,1471.0
+490,Whiskeytown,1464.0
+491,Frankie Laine,1457.0
+492,Hooverphonic,1444.0
+493,Yukmouth,1438.0
+494,Uncle Tupelo,1408.0
+495,Men At Work,1406.0
+496,Selena Gomez,1401.0
+497,Andrea Bocelli,1395.0
+498,Eagles,1391.0
+499,Veruca Salt,1391.0
+500,Zac Brown Band,1383.0
+501,Zoegirl,1378.0
+502,Selah,1378.0
+503,Ugly Kid Joe,1372.0
+504,Grease,1369.0
+505,Yung Joc,1368.0
+506,Stone Roses,1368.0
+507,Unwritten Law,1364.0
+508,Yo La Tengo,1362.0
+509,Lata Mangeshkar,1360.0
+510,Rick Astley,1351.0
+511,Little Mix,1349.0
+512,Unseen,1338.0
+513,Savage Garden,1320.0
+514,Louis Jordan,1313.0
+515,Creedence Clearwater Revival,1312.0
+516,Planetshakers,1295.0
+517,Erik Santos,1293.0
+518,Yeah Yeah Yeahs,1289.0
+519,Verve,1277.0
+520,Imagine Dragons,1276.0
+521,Frankie Goes To Hollywood,1263.0
+522,Quietdrive,1248.0
+523,Oscar Hammerstein,1227.0
+524,George Formby,1225.0
+525,Zucchero,1214.0
+526,Queen Adreena,1213.0
+527,YG,1212.0
+528,Frankie Valli,1209.0
+529,Starship,1197.0
+530,X-Raided,1195.0
+531,Xscape,1192.0
+532,OneRepublic,1191.0
+533,Young Dro,1181.0
+534,Free,1177.0
+535,Xavier Rudd,1169.0
+536,Divine,1165.0
+537,Zao,1163.0
+538,The Weeknd,1151.0
+539,Aled Jones,1150.0
+540,Matt Monro,1139.0
+541,Wang Chung,1137.0
+542,Orphaned Land,1131.0
+543,Enigma,1114.0
+544,Happy Mondays,1110.0
+545,Fun.,1109.0
+546,Aiza Seguerra,1107.0
+547,Bill Withers,1103.0
+548,Enya,1093.0
+549,Christina Perri,1092.0
+550,Imperials,1090.0
+551,Housemartins,1086.0
+552,Ten Years After,1080.0
+553,Mazzy Star,1079.0
+554,Quarashi,1076.0
+555,Quincy Punx,1072.0
+556,Falco,1066.0
+557,The Broadways,1064.0
+558,Unkle,1060.0
+559,Ariel Rivera,1060.0
+560,Wham!,1033.0
+561,Raffi,1021.0
+562,Wilson Phillips,1009.0
+563,Il Divo,1003.0
+564,Dewa 19,1000.0
+565,Iwan Fals,963.0
+566,Mark Ronson,955.0
+567,Mud,941.0
+568,Quasi,939.0
+569,Quincy Jones,937.0
+570,Xiu Xiu,935.0
+571,Xandria,934.0
+572,High School Musical,928.0
+573,Barbie,924.0
+574,Halloween,920.0
+575,Cole Porter,901.0
+576,Zox,900.0
+577,Carol Banawa,900.0
+578,Beauty And The Beast,898.0
+579,Don Moen,898.0
+580,Zero 7,896.0
+581,Kari Jobe,892.0
+582,Jose Mari Chan,889.0
+583,Quarterflash,889.0
+584,Yazoo,884.0
+585,Inside Out,879.0
+586,X,871.0
+587,X-Ray Spex,868.0
+588,Zeromancer,863.0
+589,Lorde,852.0
+590,Wilson Pickett,848.0
+591,X Japan,841.0
+592,Inna,834.0
+593,Stevie Ray Vaughan,827.0
+594,Youth Of Today,823.0
+595,Zakk Wylde,815.0
+596,Freddie King,805.0
+597,Fifth Harmony,802.0
+598,Israel Houghton,783.0
+599,Quicksand,775.0
+600,Imago,754.0
+601,Zebra,752.0
+602,David Pomeranz,735.0
+603,Vangelis,733.0
+604,Sam Smith,723.0
+605,Independence Day,721.0
+606,Zayn Malik,710.0
+607,Van Der Graaf Generator,708.0
+608,Freddie Aguilar,707.0
+609,U. D. O.,693.0
+610,Israel,691.0
+611,Quicksilver Messenger Service,674.0
+612,Yusuf Islam,672.0
+613,Joseph And The Amazing Technicolor Dreamcoat,649.0
+614,Zwan,618.0
+615,Yonder Mountain String Band,608.0
+616,Qntal,606.0
+617,Next To Normal,553.0
+618,O-Zone,544.0
+619,Yeng Constantino,542.0
+620,Side A,529.0
+621,Vengaboys,524.0
+622,Xentrix,507.0
+623,GMB,505.0
+624,Walk The Moon,499.0
+625,Iron Butterfly,477.0
+626,Vera Lynn,477.0
+627,Little Walter,433.0
+628,Zornik,425.0
+629,Exo,406.0
+630,Xavier Naidoo,371.0
+631,Koes Plus,343.0
+632,Exo-K,326.0
+633,Unknown,312.0
+634,Soundtracks,262.0
+635,Various Artists,226.0
+636,Gipsy Kings,213.0
+637,Zazie,195.0
+638,Eppu Normaali,164.0
+639,Ungu,94.0
+640,Zed,84.0
+641,U-Kiss,79.0
+642,Zoe,64.0
+643,X-Treme,38.0
